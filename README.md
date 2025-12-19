@@ -128,7 +128,7 @@ This project demonstrates a structured, business-focused approach to data cleani
 
 ## Author
 **Hassan Mistura Olaitan**  
-Aspiring Data Analyst  
+Data Analyst  
 Python | Data Cleaning | Data Analysis
 
 
